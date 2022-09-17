@@ -1,0 +1,13 @@
+package in.aadiyogi;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SbmAccountManagementClient2Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SbmAccountManagementClient2Application.class, args);
+	}
+
+}

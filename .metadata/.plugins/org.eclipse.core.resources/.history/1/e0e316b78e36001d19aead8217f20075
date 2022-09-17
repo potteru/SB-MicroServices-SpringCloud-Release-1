@@ -1,0 +1,5 @@
+package in.aadiyogi.controller;
+
+public class UserController {
+
+}

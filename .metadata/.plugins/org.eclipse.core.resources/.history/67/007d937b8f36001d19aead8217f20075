@@ -1,0 +1,13 @@
+package in.aadiyogi;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SbmSignInMsApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SbmSignInMs1Application.class, args);
+	}
+
+}
